@@ -1,4 +1,4 @@
-##This isn't original. 
+##This isn't original. AngularJS application setup to consume a restful web service.
 
 ####Fyi...this project is setup to work with another non-original project, grails-250-rest.
 
