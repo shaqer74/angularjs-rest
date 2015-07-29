@@ -1,6 +1,7 @@
-This isn't original. 
+##This isn't original. 
 
-Fyi...this project is setup to work with another of my non-original projects, grails-250-rest.
+####Fyi...this project is setup to work with another non-original project, grails-250-rest.
 
+####Things to note.
 Read this tutorial(https://spring.io/guides/gs/consuming-rest-angularjs/) to see how this project was made.
 Server port is set to 8090
